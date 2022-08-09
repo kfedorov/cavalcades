@@ -12,6 +12,7 @@
 	import Timeline from '$lib/timeline.svelte';
 	import Heure from '$lib/heure.svelte';
 	import Revendication from '$lib/revendication.svelte';
+	import ShareLink from '$lib/share-link.svelte';
 </script>
 
 <div id="top" class="background pb-10">
@@ -395,7 +396,20 @@
 						avertis de la considérable distance à parcourir à chaque jour: il serait préférable si
 						vous êtes en formes et avez déjà de l'expérience pour ce genre de trajet.
 					</p>
-					<p>Ce dont vous aurez besoin:</p>
+					<div class="border bg-green-50 border-green-600 p-5 rounded-lg py-4">
+						<strong
+							>Il est obligatoire de remplir le formulaire pour participer à la cavalcade.
+						</strong> <br />
+						Cela nous permet de collecter les fonds pour réserver le transport du retour et de nous assurer
+						que nos campings pourront accomoder le nombre de participants.
+						<br />
+						<a
+							class="inline-block mt-2 px-4 py-2 border shadow-md rounded  
+					bg-white border-green-600 no-underline text-green-700 transition-all hover:translate-y-1 hover:shadow-sm hover:bg-green-700 hover:text-white"
+							href="https://docs.google.com/forms/d/e/1FAIpQLSeiN4QqFrWO7WYZAeTnqY0hhXYb5HKGDER4vFpYTW5ED5uNNw/viewform"
+							target="_blank">Rejoignez la cavalcade!</a
+						>
+					</div>
 					<dl>
 						<dt>Équipement</dt>
 						<dd>
@@ -409,8 +423,8 @@
 						</dd>
 						<dt>Fonds</dt>
 						<dd>
-							Prévoir un budget entre 100$ et 120$ par personne: 70$ bus ou train pour revenir et
-							30-50$ de nourriture.
+							Prévoir un budget entre 105$ et 125$ par personne: 75$ bus pour revenir et 30-50$ de
+							nourriture.
 						</dd>
 					</dl>
 					<SousTitre>Encourager la cavalcade</SousTitre>
@@ -420,9 +434,14 @@
 					</p>
 					<!-- Todo add link to facebook event -->
 					<dl>
-						<dt>Parlez-en!</dt>
+						<dt><ShareLink>Parlez-en!</ShareLink></dt>
 						<dd>En personne ou en ligne! Partagez cette page ou l'évenement facebook.</dd>
-						<dt>Contribuez financièrement</dt>
+						<dt>
+							<Link
+								href="https://checkout.stripe.com/pay/cs_live_a11XzIrrToO4ZeuDAeACg8sZMrHj6tU0DbJZs2FJyw2nvI1Drt0D0cMtx4#fidkdWxOYHwnPyd1blppbHNgWjA0SVdscmdGRldmUGhmRmdgNk9udk1JTWMxTE1ITTxkTkwzQUxMNlNuYnVTVVZpaVxdX09WZDJhQzdXXVFCNz12QzxVX2lVbWFJTENTcUJkYTN9YG9pUl9kNTU3dFVXbExWaicpJ3VpbGtuQH11anZgYUxhJz8nY19gPEdvYmxpPWNiZklwYFBSJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKmFqZnYrYmpqYmlgK2ZqaConeCUl"
+								>Contribuez financièrement</Link
+							>
+						</dt>
 						<dd>
 							Tous les fonds ramassés seront utilisés pour l'organisation de futures cavalcades!
 						</dd>

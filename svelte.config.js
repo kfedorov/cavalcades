@@ -16,7 +16,7 @@ const config = {
 		},
 		browser: {
 			router: false,
-			hydrate: process.env.NODE_ENV !== 'production'
+			hydrate: true
 		}
 	}
 };

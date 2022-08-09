@@ -1,5 +1,5 @@
 <script lang="ts">
-import Link from "./link.svelte";
+	import Link from './link.svelte';
 
 	export let href: string;
 	export let color = 'green';
@@ -8,7 +8,8 @@ import Link from "./link.svelte";
 <li>
 	<a
 		{href}
-		target={href[0] === '#' ? '_self' : '_blank' }
+		target={href[0] === '#' ? '_self' : '_blank'}
 		class="block p-3 transition-all font-semibold bg-white rounded border  text-{color}-600  border-{color}-600 shadow-md hover:text-white hover:bg-{color}-600"
-		><slot /></a>
+		><slot /></a
+	>
 </li>

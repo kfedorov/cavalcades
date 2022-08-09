@@ -1,4 +1,5 @@
 Repo pour le site web de la Cavalcade 2022 - 2 Roues, 1 Avenir
+
 ## Developing
 
 Installing Dependencies: `npm install` (or `pnpm install` or `yarn`)
@@ -21,4 +22,3 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
-

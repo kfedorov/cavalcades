@@ -11,6 +11,7 @@
 	import Link from '$lib/link.svelte';
 	import Timeline from '$lib/timeline.svelte';
 	import Heure from '$lib/heure.svelte';
+	import Revendication from '$lib/revendication.svelte';
 </script>
 
 <div id="top" class="background pb-10">
@@ -65,7 +66,7 @@
 				> -->
 				<Section>
 					<SectionTitle id="pourquoi">Revendications</SectionTitle>
-					<p>
+					<!-- <p>
 						Nous croyons que le déplacement actif est plus nécessaire que jamais. Il est temps de
 						repenser radicalement notre approche à la mobilité pour réduire au maximum la
 						consommation des ressources limitées de notre planète et d'éliminer la pollution
@@ -77,92 +78,106 @@
 						provincial doit agir pour favoriser le transport actif et ainsi faciliter la transition
 						écologique et sociale.
 					</p>
-					<SousTitre>Nos demandes</SousTitre>
-					<div
-						class="border-purple-600 bg-purple-100 bg-opacity-50 rounded shadow-lg border-solid border block md:-mx-10 -mx-5 pr-5"
-					>
-						<ol>
+					<SousTitre>Nos demandes</SousTitre> -->
+					<h5 class="font-bold">À la vue</h5>
+					<ul>
+						<li>
+							Des défis des changements climatiques que seule l'électrification ne saura affronter;
+						</li>
+						<li>
+							Des problèmes de santé physique et mentale résultant de nos modes de vie sédentaire;
+						</li>
+						<li>Des problèmes de sécurité du transport actif;</li>
+						<li>De la montée croissante de l'usage du transport actif dans la province.</li>
+					</ul>
+					<h5 class="font-bold">Étant donné</h5>
+					<ul>
+						<li>
+							Que le vélo et les transports actifs sont écologiques, efficaces, durables,
+							économiques et sont l'une des meilleures options de transport pour de courtes
+							distances mais aussi pour d'autres usages à la grandeur de la province;
+						</li>
+					</ul>
+					<strong>
+						Nous demandons au gouvernement du Québec de mettre en place une politique nationale
+						ambitieuse du vélo utilitaire et d'en faire un projet de société.
+					</strong>
+
+					<Revendication>
+						Créer un plan national de mobilité active décennal avec un financement conséquent et en
+						faire un projet de société.
+						<ul slot="content">
 							<li>
-								<strong>Un plan national du vélo</strong>
-								<ol>
-									<li>
-										Un plan d’éducation national pour l’ensemble de la population
-										<ol><li>Obligation de cours de vélo dans toutes les écoles du Québec.</li></ol>
-									</li>
-									<li>
-										Alléger les contraintes pour les usagers actifs
-										<ol>
-											<li>
-												Réviser le code de la sécurité routière pour prendre en compte que le vélo
-												n’est pas un moyen de transport comme l’auto.
-											</li>
-											<li>
-												Limiter le maximum de vitesse dans les villes et zones résidentielles à 30
-												km/h
-											</li>
-											<li>Instauration d’une politique du stop Idaho</li>
-											<li>Permettre aux usagers du vélo de rouler au centre des rues.</li>
-										</ol>
-									</li>
-									<li>
-										Les infrastructures routières coûtent trop cher
-										<ol>
-											<li>
-												Créer un réseau cyclable séparé des autres véhicules motorisés entre toutes
-												les villes et les villages du Québec.
-											</li>
-											<li>Investissement d’au moins 500 millions par année.</li>
-										</ol>
-									</li>
-								</ol>
+								Obligation d'aménagements cyclables utilitaires, sécuritaires et quatre-saisons dans
+								toute réfection routière provinciale, pour connecter villes et villages.
 							</li>
 							<li>
-								<strong>
-									Des villes et villages à échelle humaine. Aménagement du territoire en fonction
-									des transport actif et des transport en commun
-								</strong>
-								<ol>
-									<li>
-										Trop d’auto solo qui engendre des coût énormes et de la congestion
-										<ol>
-											<li>
-												Favoriser les déplacements actif vers des transports en commun viable,
-												confortable, fréquent, interurbain
-											</li>
-											<li>Connecter toutes les villes et villages en transport en commun</li>
-										</ol>
-									</li>
-								</ol>
+								Sécurisation des tronçons de la route verte (aménagements de plaisance pour
+								cyclotourisme).
 							</li>
 							<li>
-								<strong>Sécurisation : Plan vision zéro pour le Québec.</strong>
-								<ol>
-									<li>
-										Il y a trop d’accidents grave et de mort sur nos routes
-										<ol>
-											<li>
-												Adopter la vision zéro pour l’ensemble des municipalités du québec avec un
-												budget conséquent.
-											</li>
-										</ol>
-									</li>
-									<li>
-										Les camions sont une grande source de dangers dans les rues de nos villes
-										<ol>
-											<li>
-												Concevoir et réaliser des centres de distributions à l’extérieur des grandes
-												villes
-											</li>
-											<li>
-												Permettre seulement de petit camion (exclure les 53 pieds) des villes et
-												villages.
-											</li>
-										</ol>
-									</li>
-								</ol>
+								Financer à hauteur de 500 M$ par année le réseau cyclable provincial et municipal.
 							</li>
-						</ol>
-					</div>
+							<li>Créer unlien express et sécuritaire dédié au vélo entre Montréal et Québec.</li>
+							<li>
+								Mesurer les résultats des actions sur la santé physique et mentale de la population
+								ainsi que les retombées sociales et économiques.
+							</li>
+						</ul>
+					</Revendication>
+					<Revendication>
+						Revoir les standards d'aménagement routiers en mettant au sommet les plus vulnérables
+						sur la route.
+						<ul slot="content">
+							<li>
+								Rendre les villes et municipalités redevables pour la mise en place d'une politique
+								nationale de vision zéro des transports actifs.
+							</li>
+							<li>Prioriser la sécurité des individus par rapport à la fluidité des véhicules.</li>
+							<li>
+								Instaurer au niveau national l'obligation d'aménagements physiques pour apaiser le
+								trafic automobile (ex. aménagement Woonerf, vélo-rues) dans toute réfection de rue
+								résidentielle
+							</li>
+							<li>
+								Instaurer l'obligation des villes et municipalités de mettre en place du 30 km/h
+								dans toutes les rues résidentielles.
+							</li>
+							<li>
+								Instaurer une politique du “dernier mile” pour connecter les pôles de mobilités
+								(stations trains, terminus de bus régional) avec des infrastructures de transports
+								actifs.
+							</li>
+							<li>
+								Revoir la mission du Ministère des Transports du Québec et coordonner sa mission
+								avec celle du Ministère des Affaires municipales et habitations.
+							</li>
+						</ul>
+					</Revendication>
+					<Revendication>
+						Faire une refonte du code de la sécurité routière pour l'adapter aux transports actifs.
+						<ul slot="content">
+							<li>
+								Rendre obligatoire un test de sensibilisation à la pratique du vélo à tous les
+								nouveaux détenteurs de permis de conduire de véhicule motorisé
+							</li>
+							<li>Autoriser le stop Idaho aux usagers du vélo et transport actif</li>
+							<li>
+								Modifier le CSR pour que le transport actif soit prioritaire vis-à-vis le transport
+								motorisé.
+							</li>
+						</ul>
+					</Revendication>
+					<Revendication>
+						Démocratiser l'usage du vélo et éveil au transport actif.
+						<ul slot="content">
+							<li>Obligation de cours de vélo à la sixième année du primaire</li>
+							<li>Subvention (100%) à l'achat de vélos de ville aux personnes à faible revenu</li>
+							<li>Subvention à l'achat de vélos de ville et vélos électriques</li>
+							<li>Crédit d'impôts aux citoyens qui ne possèdent pas d'auto</li>
+							<li>Campagne publicitaire valorisant le transport actif utilitaire</li>
+						</ul>
+					</Revendication>
 				</Section>
 				<Section>
 					<SectionTitle id="chemin">Itinéraire</SectionTitle>
@@ -179,7 +194,7 @@
 							<Heure start="10h00"
 								>Collation au <Link
 									href="https://www.google.com/maps/place/Parc+de+l'%C3%8Ele-Lebel/@45.7354089,-73.4517996,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc8e5ceb269b14d:0xf093f6db64b7bb5e!8m2!3d45.7354089!4d-73.4496109"
-									>Parc de l’île-Lebel</Link
+									>Parc de l'île-Lebel</Link
 								> 🚻 🚰</Heure
 							>
 							<Heure start="10h30">Repentigny -> Lavaltrie (22,3 km)</Heure>
@@ -231,7 +246,7 @@
 										Souper et dodo <Link
 											href="https://www.google.com/maps/place/Parc+tricentenaire/@46.2570143,-72.944199,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc62fa183928631:0x18be139896f97ffe!8m2!3d46.2570143!4d-72.9420103"
 											>Parc Tricentenaire</Link
-										> derrière l’église 🚻 🚰
+										> derrière l'église 🚻 🚰
 									</li>
 									<li>
 										Épicerie <Link
@@ -339,12 +354,12 @@
 							<Heure start="13h00"
 								><ul>
 									<ul>
-										Dîner à l’Hôtel du Parlement
+										Dîner à l'Hôtel du Parlement
 										<li>
 											<Link
 												href="https://www.google.com/maps/place/%C3%89picerie+Richard/@46.8119089,-71.2074614,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOlhJM4LeukoR_ip0LTEbJ8-0DWaLRivp4x9ftJ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOlhJM4LeukoR_ip0LTEbJ8-0DWaLRivp4x9ftJ%3Dw224-h398-k-no!7i2340!8i4160!4m18!1m9!2m8!1zw6lwaWNlcmll!3m6!1zw6lwaWNlcmll!2zUXXDqWJlYywgUUM!3s0x4cb8968a05db8893:0x8fc52d63f0e83a03!4m2!1d-71.2074596!2d46.8130816!3m7!1s0x4cb895dc10f07637:0x2e573cc187829b2!8m2!3d46.8119089!4d-71.2074614!14m1!1BCgIgAQ!15sCgnDqXBpY2VyaWVaCyIJw6lwaWNlcmllkgENZ3JvY2VyeV9zdG9yZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNd05EaGZOVk5CRUFF"
 												>Épicerie Richard</Link
-											> sur le chemin de l’Hôtel du Parlement 🛒
+											> sur le chemin de l'Hôtel du Parlement 🛒
 										</li>
 										<li>
 											Épicerie <Link

@@ -1,6 +1,4 @@
 <script lang="ts">
-	import Link from './link.svelte';
-
 	export let href: string;
 	export let color = 'green';
 </script>

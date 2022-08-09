@@ -1,11 +1,14 @@
 <script lang="ts">
+import Link from "./link.svelte";
+
 	export let href: string;
+	export let color = 'green';
 </script>
 
 <li>
 	<a
 		{href}
-		class="block p-3 font-semibold bg-white rounded border text-green-600  border-green-600 shadow-md hover:text-white hover:bg-green-600"
-		><slot /></a
-	>
+		target={href[0] === '#' ? '_self' : '_blank' }
+		class="block p-3 transition-all font-semibold bg-white rounded border  text-{color}-600  border-{color}-600 shadow-md hover:text-white hover:bg-{color}-600"
+		><slot /></a>
 </li>

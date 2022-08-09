@@ -13,7 +13,7 @@
 	<div class="ml-4">
 		<time class="mb-1 text-sm font-normal leading-none text-purple-600">{date}</time>
 		<h3 class="text-xl font-semibold text-gray-900">
-			<Link external={true} href={link}>{start} -> {end} | {length}</Link>
+			<Link href={link}>{start} -> {end} | {length}</Link>
 		</h3>
 		<ul class="mt-5 leading-7 group">
 			<slot />

@@ -15,26 +15,29 @@
 
 <div id="top" class="background pb-10">
 	<div class="container mx-auto">
-		<div class="prose lg:prose-lg mx-auto text-slate-800">
+		<div class="mx-auto text-slate-800">
 			<div class="p-8 space-y-5 mx-auto text-center text-lg text-purple-600 ">
-				<div class="">Oyé Oyé Oyé!!! <br /> Vous êtes toutes et tous convié.e.s à la</div>
+				<div>Oyé Oyé Oyé!!! <br /> Vous êtes toutes et tous convié.e.s à la</div>
 				<!-- <h1 class="text-purple-600 mb-2">La Cavalcade</h1>
 				<div class="text-xl text-purple-500">2 Roues - 1 Avenir</div> -->
 				<img alt="Cavalcade 2022 - Deux Roues Un avenir" class="m-auto" src="logo_small.webp" />
 				<div>Du 3 au 5 septembre 2022</div>
 			</div>
+		</div>
+		<nav class="flex flex-col px-8 space-y-5 ">
+			<div class="not-prose ">
+				<ul class="space-y-3 md:space-y-0 md:flex gap-2 justify-center flex-wrap">
+					<NavItem href="#quoi">C'est quoi?!</NavItem>
+					<NavItem href="#pourquoi">Revendications</NavItem>
+					<NavItem href="#chemin">Itinéraire</NavItem>
+					<NavItem href="#participer">Comment participer</NavItem>
+					<NavItem href="#contact">Nous contacter</NavItem>
+					<NavItem color="facebook" href="https://www.facebook.com/cavalcadevelo">Facebook</NavItem>
+				</ul>
+			</div>
+		</nav>
 
-			<nav class="flex flex-col px-8 space-y-5 ">
-				<div class="not-prose ">
-					<ul class="space-y-3 md:space-y-0 md:flex md:justify-between">
-						<NavItem href="#quoi">C'est quoi?!</NavItem>
-						<NavItem href="#pourquoi">Revendications</NavItem>
-						<NavItem href="#chemin">Itinéraire</NavItem>
-						<NavItem href="#participer">Comment participer</NavItem>
-						<NavItem href="#contact">Nous contacter</NavItem>
-					</ul>
-				</div>
-			</nav>
+		<div class="prose prose-ol:lg:my-1 prose-li:lg:my-1 lg:prose-lg mx-auto text-slate-800">
 			<div>
 				<Section>
 					<SectionTitle id="quoi">C'est quoi?!</SectionTitle>
@@ -44,9 +47,8 @@
 						avec quelques revendications!
 					</p>
 					<p>
-						Une randonnée vélo-camping de trois jours suivi d'un évenement à Québec pour
-						mani-festoyer, pour faire valoir l'importance du déplacement actif au sein de notre
-						société.
+						Une randonnée vélo-camping de trois jours suivi d'un évenement à Québec pour faire
+						valoir l'importance du déplacement actif au sein de notre société.
 					</p>
 					<dl>
 						<dt>Quand</dt>
@@ -319,7 +321,7 @@
 							date="Lundi 5 septembre 2022"
 							start="Donnacona"
 							end="Québec"
-							length="50 km"
+							length="60 km"
 						>
 							<Heure start="08h00">Donnacona -> Cap Rouge (35,1 km)</Heure>
 							<Heure start="10h30"
@@ -329,9 +331,7 @@
 								> 🚻 🚰</Heure
 							>
 							<Heure start="11h00"
-								>Cap-Rouge -> Québec (25,0 km) <span class="italic"
-									>- Devrait se faire en longeant le fleuve!</span
-								></Heure
+								>Cap-Rouge -> Québec (25,0 km) <span class="italic">- Masse Critique!</span></Heure
 							>
 							<Heure start="13h00">
 								<span class="bold">Hôtel du Parlement - Revendications</span>
@@ -363,7 +363,7 @@
 							>
 							<Heure start="17h10">17h10 Départ du train arrivée à 21h00</Heure>
 							<div class="text-sm text-gray-400">
-								<sup id="note-modification">1</sup> Sujet à modifications mineures
+								<sup id="note-modification">1</sup> Sujet à modifications
 							</div>
 						</Jour>
 					</Timeline>
@@ -419,6 +419,11 @@
 						Pour toute question, contacter <Link
 							href="mailto:cavalcadevelo@gmail.com?subject=Question depuis cavalcadevelo.com"
 							>cavalcadevelo@gmail.com</Link
+						>
+					</p>
+					<p>
+						Rejoignez la conversation sur <Link href="https://www.facebook.com/cavalcadevelo"
+							>Facebook</Link
 						>
 					</p>
 				</Section>

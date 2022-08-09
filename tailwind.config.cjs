@@ -2,9 +2,6 @@
 module.exports = {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
-		maxWidth: {
-			prose: '75ch'
-		},
 		extend: {
 			typography: {
 				DEFAULT: {
@@ -12,8 +9,14 @@ module.exports = {
 						maxWidth: '90ch'
 					}
 				}
+			},
+			colors: {
+				facebook: {
+					600: '#4267B2'
+				}
 			}
 		}
 	},
+	safelist: [{ pattern: /(bg|text|border)-(green|facebook)-600/, variants: ['hover'] }],
 	plugins: [require('@tailwindcss/typography')]
 };

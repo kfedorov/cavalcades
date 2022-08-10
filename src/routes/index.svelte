@@ -371,16 +371,9 @@
 									</ul>
 								</ul>
 							</Heure>
-							<Heure start="16h00"
-								>Arrivée à la <Link
-									href="https://www.google.com/maps/place/Metro+Plus+St-Roch/@46.8164588,-71.2353516,15z/data=!4m16!1m9!2m8!1zw6lwaWNlcmll!3m6!1zw6lwaWNlcmll!2zUXXDqWJlYywgUUM!3s0x4cb8968a05db8893:0x8fc52d63f0e83a03!4m2!1d-71.2074596!2d46.8130816!3m5!1s0x4cb89674ee6ba647:0x5349bf089b6ce727!8m2!3d46.8164585!4d-71.2178434!15sCgnDqXBpY2VyaWVaCyIJw6lwaWNlcmllkgELc3VwZXJtYXJrZXSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlZhVnBoWkVGbkVBRQ"
-									>Gare du Palais</Link
-								> pour check-in <a href="#node-modification"><sup class="m-0">1</sup></a></Heure
+							<Heure start="17h00"
+								>Retour vers Montréal en bus | <span class="italic">Détails à venir</span></Heure
 							>
-							<Heure start="17h10">17h10 Départ du train arrivée à 21h00</Heure>
-							<div class="text-sm text-gray-400">
-								<sup id="note-modification">1</sup> Sujet à modifications
-							</div>
 						</Jour>
 					</Timeline>
 				</Section>
@@ -468,10 +461,8 @@
 
 <style>
 	.background {
-		background-color: ghostwhite;
-		background-image: url('/background_pattern.webp');
+		background-image: url('/background_pattern_pale.webp');
 		background-size: 700px;
-		background-blend-mode: overlay;
 	}
 
 	dt {

@@ -407,17 +407,15 @@
 						<dt>Équipement</dt>
 						<dd>
 							Prévoir tout son équipement typique pour le vélo-camping: vélo, tente, matelas de sol,
-							produit d'hygiène, vêtements, etc.
+							produit d'hygiène, vêtements, etc. Voici <Link
+								href="https://www.velo.qc.ca/boites-a-outils/pratique-cycliste/cyclotourisme/"
+								>quelques conseils.</Link
+							>
 						</dd>
 						<dt>Nourriture</dt>
 						<dd>
-							Nous allons arrêter environ à chaque 20 km pour une pause avec accès à des
-							épiceries/restaurants.
-						</dd>
-						<dt>Fonds</dt>
-						<dd>
-							Prévoir un budget entre 105$ et 125$ par personne: 75$ bus pour revenir et 30-50$ de
-							nourriture.
+							Nous prévoyons des pauses de 30min à une heure, à chaque 25 km à 35 km, l'avant-midi,
+							le midi et l'après-midi tout près des épiceries/restaurants.
 						</dd>
 					</dl>
 					<SousTitre>Encourager la cavalcade</SousTitre>

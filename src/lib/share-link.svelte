@@ -2,7 +2,7 @@
 	async function share() {
 		await navigator.share({
 			title: 'Cavalcade - 2 Roues 1 Avenir',
-			text: 'Rejoignez la cavalcade le 10 Septembre prochain!',
+			text: 'Rejoignez la cavalcade le 3 au 5 Septembre prochain!',
 			url: 'https://cavalcadevelo.com'
 		});
 	}

@@ -49,12 +49,12 @@
 						avec quelques revendications!
 					</p>
 					<p>
-						Une randonnée vélo-camping de trois jours suivi d'un évenement à Québec pour faire
+						Une randonnée vélo-camping de trois jours suivi d'un événement à Québec pour faire
 						valoir l'importance du déplacement actif au sein de notre société.
 					</p>
 					<dl>
 						<dt>Quand</dt>
-						<dd>Du 3 au 5 septembre 2022, Samedi au Lundi de la fête du travail.</dd>
+						<dd>Du 3 au 5 septembre 2022, samedi au lundi de la fête du Travail.</dd>
 						<dt>Trajet</dt>
 						<dd>Montréal -> Québec (<Link href="#chemin">détails...</Link>)</dd>
 					</dl>
@@ -270,7 +270,7 @@
 							end="Donnacona"
 							length="120 km"
 						>
-							<Heure start="08h00">Louiseville -> Trois-Rivière (31,7 km)</Heure>
+							<Heure start="08h00">Louiseville -> Trois-Rivières (31,7 km)</Heure>
 							<Heure start="10h30"
 								>Collation au <Link
 									href="https://www.google.com/maps?q=7055+Rue+Notre+Dame+O,+Trois-Rivi%C3%A8res,+QC+G9A+6M3&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj87PuXpoX5AhUgkYkEHcnIBT8Q_AUoAXoECAEQAw"
@@ -378,15 +378,15 @@
 					</Timeline>
 				</Section>
 				<Section>
-					<SectionTitle id="participer">Comment Participer</SectionTitle>
-					<p>Ça vous interpelle?! Joignez vous à nous!</p>
+					<SectionTitle id="participer">Comment participer</SectionTitle>
+					<p>Ça vous interpelle?! Joignez-vous à nous!</p>
 					<SousTitre>Joindre la cavalcade</SousTitre>
 					<p>
 						Vous pouvez rejoindre la Cavalcade à n'importe quel point dans son <Link href="#chemin"
 							>parcours</Link
 						>. Tout le monde est bienvenu-e, que ce soit pour l'entièreté du chemin ou seulement une
 						petite partie. Cependant, si vous désirez vous joindre à nous du début à la fin, soyez
-						avertis de la considérable distance à parcourir à chaque jour: il serait préférable si
+						avertis de la considérable distance à parcourir chaque jour: il serait préférable si
 						vous êtes en formes et avez déjà de l'expérience pour ce genre de trajet.
 					</p>
 					<div class="border bg-green-50 border-green-600 p-5 rounded-lg py-4">
@@ -394,7 +394,7 @@
 							>Il est obligatoire de remplir le formulaire pour participer à la cavalcade.
 						</strong> <br />
 						Cela nous permet de collecter les fonds pour réserver le transport du retour et de nous assurer
-						que nos campings pourront accomoder le nombre de participants.
+						que nos campings pourront accommoder le nombre de participants.
 						<br />
 						<a
 							class="inline-block mt-2 px-4 py-2 border shadow-md rounded  
@@ -423,10 +423,9 @@
 						Même si vous ne pouvez pas participer en personne, il y a une tonne de moyens de nous
 						encourager!
 					</p>
-					<!-- Todo add link to facebook event -->
 					<dl>
 						<dt><ShareLink>Parlez-en!</ShareLink></dt>
-						<dd>En personne ou en ligne! Partagez cette page ou l'évenement facebook.</dd>
+						<dd>En personne ou en ligne! Partagez cette page ou l'événement Facebook.</dd>
 						<dt>
 							<Link
 								href="https://checkout.stripe.com/pay/cs_live_a11XzIrrToO4ZeuDAeACg8sZMrHj6tU0DbJZs2FJyw2nvI1Drt0D0cMtx4#fidkdWxOYHwnPyd1blppbHNgWjA0SVdscmdGRldmUGhmRmdgNk9udk1JTWMxTE1ITTxkTkwzQUxMNlNuYnVTVVZpaVxdX09WZDJhQzdXXVFCNz12QzxVX2lVbWFJTENTcUJkYTN9YG9pUl9kNTU3dFVXbExWaicpJ3VpbGtuQH11anZgYUxhJz8nY19gPEdvYmxpPWNiZklwYFBSJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKmFqZnYrYmpqYmlgK2ZqaConeCUl"

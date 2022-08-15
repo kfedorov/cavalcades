@@ -19,7 +19,7 @@
 	<div class="container mx-auto">
 		<div class="mx-auto text-slate-800">
 			<div class="p-8 space-y-5 mx-auto text-center text-lg text-purple-600 ">
-				<div>Oyé Oyé Oyé!!! <br /> Vous êtes toutes et tous convié.e.s à la</div>
+				<div>Oyez Oyez Oyez!!! <br /> Vous êtes toutes et tous convié.e.s à la</div>
 				<!-- <h1 class="text-purple-600 mb-2">La Cavalcade</h1>
 				<div class="text-xl text-purple-500">2 Roues - 1 Avenir</div> -->
 				<img alt="Cavalcade 2022 - Deux Roues Un avenir" class="m-auto" src="logo_small.webp" />

@@ -1,7 +1,3 @@
-<script lang="ts" context="module">
-	// export const hydrate = false;
-</script>
-
 <script lang="ts">
 	import Jour from '$lib/jour.svelte';
 	import SousTitre from '$lib/sous-titre.svelte';

@@ -115,7 +115,7 @@
 							<li>
 								Financer à hauteur de 500 M$ par année le réseau cyclable provincial et municipal.
 							</li>
-							<li>Créer unlien express et sécuritaire dédié au vélo entre Montréal et Québec.</li>
+							<li>Créer un premier lien express et sécuritaire dédié au vélo entre Montréal et Québec.</li>
 							<li>
 								Mesurer les résultats des actions sur la santé physique et mentale de la population
 								ainsi que les retombées sociales et économiques.

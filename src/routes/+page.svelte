@@ -101,78 +101,80 @@
 					</strong>
 
 					<Revendication>
-						Créer un plan national de mobilité active décennal avec un financement conséquent et en
-						faire un projet de société.
+						Créer un plan de mobilité active national et décennal, avec un financement conséquent,
+						et en faire un projet de société.
 						<ul slot="content">
 							<li>
-								Obligation d'aménagements cyclables utilitaires, sécuritaires et quatre-saisons dans
-								toute réfection routière provinciale, pour connecter villes et villages.
+								Exiger lors de la réfection de toute route provinciale l'installation d'aménagements
+								sécuritaires et quatre-saisons pour les cyclistes, afin de connecter les villes et
+								villages de la province par des infrastructures cyclables.
 							</li>
 							<li>
-								Sécurisation des tronçons de la route verte (aménagements de plaisance pour
-								cyclotourisme).
+								Financer à hauteur de 500 millions $ par année les réseaux cyclables de la province.
+							</li>
+							<li>Étendre le réseau de la Route verte, et sécuriser tous ces tronçons.</li>
+							<li>
+								Créer un elien express et sécuritaire, dédié au vélo, entre Montréal et Québec.
 							</li>
 							<li>
-								Financer à hauteur de 500 M$ par année le réseau cyclable provincial et municipal.
-							</li>
-							<li>Créer un premier lien express et sécuritaire dédié au vélo entre Montréal et Québec.</li>
-							<li>
-								Mesurer les résultats des actions sur la santé physique et mentale de la population
-								ainsi que les retombées sociales et économiques.
+								Mesurer les résultats de ces actions sur la santé physique et mentale de la
+								population, ainsi que les retombées sociales et économiques.
 							</li>
 						</ul>
 					</Revendication>
 					<Revendication>
-						Revoir les standards d'aménagement routiers en mettant au sommet les plus vulnérables
-						sur la route.
+						Revoir les standards d'aménagements routiers, en priorisant les plus vulnérables sur la
+						route.
 						<ul slot="content">
 							<li>
-								Rendre les villes et municipalités redevables pour la mise en place d'une politique
-								nationale de vision zéro des transports actifs.
-							</li>
-							<li>Prioriser la sécurité des individus par rapport à la fluidité des véhicules.</li>
-							<li>
-								Instaurer au niveau national l'obligation d'aménagements physiques pour apaiser le
-								trafic automobile (ex. aménagement Woonerf, vélo-rues) dans toute réfection de rue
-								résidentielle
+								Rendre les municipalités redevables pour la mise en place d'une politique nationale
+								de Vision Zéro des transports actifs.
 							</li>
 							<li>
-								Instaurer l'obligation des villes et municipalités de mettre en place du 30 km/h
-								dans toutes les rues résidentielles.
+								Prioriser la sécurité des individus à pied et à vélo, par rapport à la fluidité de
+								la circulation automobile.
 							</li>
 							<li>
-								Instaurer une politique du “dernier mile” pour connecter les pôles de mobilités
-								(stations trains, terminus de bus régional) avec des infrastructures de transports
-								actifs.
+								Exiger des aménagements physiques pour apaiser le trafic automobile dans toute
+								réfection de rue résidentielle, par exemple des woonerfs ou des vélorues.
 							</li>
 							<li>
-								Revoir la mission du Ministère des Transports du Québec et coordonner sa mission
-								avec celle du Ministère des Affaires municipales et habitations.
+								Obliger les municipalités à mettre en place une limite de vitesse de 30 km/h dans
+								toutes les rues résidentielles.
+							</li>
+							<li>
+								Instaurer une politique du “dernier kilomètre” pour connecter les pôles de mobilité
+								(stations de train, terminus de bus régional) avec des infrastructures de transport
+								actif.
+							</li>
+							<li>
+								Coordonner la mission du Ministère des Transports du Québec avec celle du Ministère
+								des Affaires municipales et de l'Habitation.
 							</li>
 						</ul>
 					</Revendication>
 					<Revendication>
-						Faire une refonte du code de la sécurité routière pour l'adapter aux transports actifs.
+						Faire une refonte du Code de la sécurité routière pour l'adapter aux transports actifs.
 						<ul slot="content">
 							<li>
-								Rendre obligatoire un test de sensibilisation à la pratique du vélo à tous les
-								nouveaux détenteurs de permis de conduire de véhicule motorisé
+								Rendre obligatoire un test de sensibilisation aux cyclistes et aux piétons à tous
+								les nouveaux détenteurs de permis de conduire de véhicule motorisé.
 							</li>
-							<li>Autoriser le stop Idaho aux usagers du vélo et transport actif</li>
+							<li>Autoriser l'arrêt Idaho aux cyclistes.</li>
 							<li>
-								Modifier le CSR pour que le transport actif soit prioritaire vis-à-vis le transport
-								motorisé.
+								Modifier l'ensemble du Code de la sécurité routière pour que le transport actif soit
+								prioritaire vis-à-vis le transport motorisé.
 							</li>
 						</ul>
 					</Revendication>
 					<Revendication>
-						Démocratiser l'usage du vélo et éveil au transport actif.
+						Démocratiser l'usage du vélo, et promouvoir le transport actif.
 						<ul slot="content">
-							<li>Obligation de cours de vélo à la sixième année du primaire</li>
-							<li>Subvention (100%) à l'achat de vélos de ville aux personnes à faible revenu</li>
-							<li>Subvention à l'achat de vélos de ville et vélos électriques</li>
-							<li>Crédit d'impôts aux citoyens qui ne possèdent pas d'auto</li>
-							<li>Campagne publicitaire valorisant le transport actif utilitaire</li>
+							<li>
+								Subventionner l'achat de vélos pour tous. À 100% pour les personnes à faible revenu.
+							</li>
+							<li>Accorder des crédits d'impôt aux citoyens qui ne possèdent pas d'auto.</li>
+							<li>Lancer une campagne publicitaire valorisant le transport actif utilitaire.</li>
 						</ul>
 					</Revendication>
 				</Section>

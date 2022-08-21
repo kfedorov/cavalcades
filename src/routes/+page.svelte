@@ -183,13 +183,13 @@
 					<p>Montréal -> Québec sur la rive nord, route 138.</p>
 					<Timeline>
 						<Jour
-							link="https://www.google.com/maps/dir/Parc+La+Fontaine,+Avenue+Calixa-Lavall%C3%A9e,+Montr%C3%A9al,+QC/Parc+de+l'%C3%8Ele-Lebel,+Rue+Notre+Dame,+Repentigny,+QC/Parc+G%C3%A9rard-Lavall%C3%A9e,+Rue+Saint+Antoine+Sud,+Lavaltrie,+QC/Belv%C3%A9d%C3%A8re+Jacques-Lavall%C3%A9e,+Rue+De+Frontenac,+Berthierville,+QC/Parc+tricentenaire,+Louiseville,+QC/@45.8887644,-73.8166036,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x4cc91bc84bbfa227:0x45962228026ccc97!2m2!1d-73.5703556!2d45.5273219!1m5!1m1!1s0x4cc8e5ceb269b14d:0xf093f6db64b7bb5e!2m2!1d-73.4496109!2d45.7354089!1m5!1m1!1s0x4cc8ed5ee828fec7:0xfa10e2e2441059b0!2m2!1d-73.2753851!2d45.883952!1m5!1m1!1s0x4cc89bfbcfb15b4b:0xcb819ab0961fff3c!2m2!1d-73.1754886!2d46.0798773!1m5!1m1!1s0x4cc62fa183928631:0x18be139896f97ffe!2m2!1d-72.9420103!2d46.2570143!3e1!5m1!1e3"
+							link="https://www.google.com/maps/dir/House+cyclists,+Rue+Rachel+Est,+Montreal,+QC/Parc+de+l'%C3%8Ele-Lebel,+Rue+Notre+Dame,+Repentigny,+QC/Parc+G%C3%A9rard-Lavall%C3%A9e,+Rue+Saint+Antoine+Sud,+Lavaltrie,+QC/Belv%C3%A9d%C3%A8re+Jacques-Lavall%C3%A9e,+Rue+De+Frontenac,+Berthierville,+QC/Parc+tricentenaire,+Louiseville,+QC/@45.8906793,-73.8180049,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x4cc91bc5ead070d7:0xdb139e4a2a664759!2m2!1d-73.5731582!2d45.5272293!1m5!1m1!1s0x4cc8e5ceb269b14d:0xf093f6db64b7bb5e!2m2!1d-73.4496109!2d45.7354089!1m5!1m1!1s0x4cc8ed5ee828fec7:0xfa10e2e2441059b0!2m2!1d-73.2753851!2d45.883952!1m5!1m1!1s0x4cc89bfbcfb15b4b:0xcb819ab0961fff3c!2m2!1d-73.1754886!2d46.0798773!1m5!1m1!1s0x4cc62fa183928631:0x18be139896f97ffe!2m2!1d-72.9420103!2d46.2570143!3e1!5m1!1e3"
 							date="Samedi 3 septembre 2022"
-							start="Parc La Fontaine, Montréal"
+							start="Montréal"
 							end="Louiseville"
 							length="100 km"
 						>
-							<Heure start="08h00">Parc Lafontaine - > Repentigny (28,8 km)</Heure>
+							<Heure start="08h00">Maison des Cyclistes, Montréal - > Repentigny (28,8 km)</Heure>
 							<Heure start="10h00"
 								>Collation au <Link
 									href="https://www.google.com/maps/place/Parc+de+l'%C3%8Ele-Lebel/@45.7354089,-73.4517996,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc8e5ceb269b14d:0xf093f6db64b7bb5e!8m2!3d45.7354089!4d-73.4496109"
@@ -369,11 +369,21 @@
 									</ul>
 								</ul>
 							</Heure>
-							<Heure start="17h00"
-								>Retour vers Montréal en bus | <span class="italic">Détails à venir</span></Heure
+							<Heure start="17h00">Embarquement pour le transport en bus</Heure>
+							<Heure start="18h00">Départ du bus pour Montréal</Heure>
+							<Heure start="21h00">
+								Arrivé à Montréal au Parc La Fontaine près de l'<Link
+									href="https://www.google.com/maps/place/%C3%89cole+primaire+Le+Plateau/@45.5253668,-73.5694793,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bc7de6d5185:0xdeb15eceac2700bc!8m2!3d45.525373!4d-73.5672807"
+									>école primaire Le Plateau</Link
+								></Heure
 							>
 						</Jour>
 					</Timeline>
+					<small
+						>NB: Un véhicule de soutien fermera la cavalcade avec un mécano professionnel du
+						ReCycliste comprenant un atelier mobile pour vous offrir une assistance routière. |
+						Numéro de téléphone d'urgence à venir.</small
+					>
 				</Section>
 				<Section>
 					<SectionTitle id="participer">Comment participer</SectionTitle>
@@ -415,6 +425,16 @@
 							Nous prévoyons des pauses de 30min à une heure, à chaque 25 km à 35 km, l'avant-midi,
 							le midi et l'après-midi tout près des épiceries/restaurants.
 						</dd>
+						<dl>
+							<dt>Information</dt>
+							<dd>
+								Révisez l'itinéraire sur cette page avant le départ et informez vous sur les
+								conseils pour <Link
+									href="https://velo2000.qc.ca/nouvelles/rouler-en-peloton/#:~:text=C'est%20une%20pratique%20qui,groupe%2C%20c'est%20motivant"
+									>rouler en peloton</Link
+								>.
+							</dd>
+						</dl>
 					</dl>
 					<SousTitre>Encourager la cavalcade</SousTitre>
 					<p>

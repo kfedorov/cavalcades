@@ -114,7 +114,7 @@
 							</li>
 							<li>Étendre le réseau de la Route verte, et sécuriser tous ces tronçons.</li>
 							<li>
-								Créer un elien express et sécuritaire, dédié au vélo, entre Montréal et Québec.
+								Créer un lien express et sécuritaire, dédié au vélo, entre Montréal et Québec.
 							</li>
 							<li>
 								Mesurer les résultats de ces actions sur la santé physique et mentale de la

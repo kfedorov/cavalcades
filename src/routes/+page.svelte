@@ -41,7 +41,7 @@
 					<SectionTitle id="quoi">C'est quoi?!</SectionTitle>
 					<p>
 						Le mot cavalcade désignant originalement une chevauchée animée de groupe, nous
-						souhaitons mettre cette idée au goût du jour et en faire un balade de vélo mani-festive
+						souhaitons mettre cette idée au goût du jour et en faire une balade de vélo mani-festive
 						avec quelques revendications!
 					</p>
 					<p>

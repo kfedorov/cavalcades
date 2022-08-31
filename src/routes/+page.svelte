@@ -45,7 +45,7 @@
 						avec quelques revendications!
 					</p>
 					<p>
-						Une randonnée vélo-camping de trois jours suivi d'un événement à Québec pour faire
+						Une randonnée vélo-camping de trois jours suivie d'un événement à Québec pour faire
 						valoir l'importance du déplacement actif au sein de notre société.
 					</p>
 					<dl>
@@ -82,7 +82,7 @@
 							Des défis des changements climatiques que seule l'électrification ne saura affronter;
 						</li>
 						<li>
-							Des problèmes de santé physique et mentale résultant de nos modes de vie sédentaire;
+							Des problèmes de santé physique et mentale résultant de nos modes de vie sédentaires;
 						</li>
 						<li>Des problèmes de sécurité du transport actif;</li>
 						<li>De la montée croissante de l'usage du transport actif dans la province.</li>
@@ -395,27 +395,33 @@
 						>. Tout le monde est bienvenu-e, que ce soit pour l'entièreté du chemin ou seulement une
 						petite partie. Cependant, si vous désirez vous joindre à nous du début à la fin, soyez
 						avertis de la considérable distance à parcourir chaque jour: il serait préférable si
-						vous êtes en formes et avez déjà de l'expérience pour ce genre de trajet.
+						vous êtes en forme et avez déjà de l'expérience pour ce genre de trajet.
 					</p>
 					<div class="border bg-green-50 border-green-600 p-5 rounded-lg py-4">
-						<strong
+						<strong class="text-green-700"
 							>Il est obligatoire de remplir le formulaire pour participer à la cavalcade.
 						</strong> <br />
 						Cela nous permet de collecter les fonds pour réserver le transport du retour et de nous assurer
 						que nos campings pourront accommoder le nombre de participants.
-						<br />
-						<a
-							class="inline-block mt-2 px-4 py-2 border shadow-md rounded  
+
+						<div class="flex">
+							<a
+								class="block text-xl m-auto my-4 px-5 py-4 border shadow-md rounded-lg  
 					bg-white border-green-600 no-underline text-green-700 transition-all hover:translate-y-1 hover:shadow-sm hover:bg-green-700 hover:text-white"
-							href="https://docs.google.com/forms/d/e/1FAIpQLSeiN4QqFrWO7WYZAeTnqY0hhXYb5HKGDER4vFpYTW5ED5uNNw/viewform"
-							target="_blank">Rejoignez la cavalcade!</a
-						>
+								href="https://docs.google.com/forms/d/e/1FAIpQLSeiN4QqFrWO7WYZAeTnqY0hhXYb5HKGDER4vFpYTW5ED5uNNw/viewform"
+								target="_blank">Rejoignez la cavalcade!</a
+							>
+						</div>
+						<strong>Note: </strong> Pour assurer le transport Québec-Montréal nous demandons à tout
+						ceux et celles qui prenne le bus de s'inscrire le jeudi 1er septembre avant 10h00.
+						Passer ce délai nous ne pouvons garantir votre billet.
+						<br />
 					</div>
 					<dl>
 						<dt>Équipement</dt>
 						<dd>
 							Prévoir tout son équipement typique pour le vélo-camping: vélo, tente, matelas de sol,
-							produit d'hygiène, vêtements, etc. Voici <Link
+							produits d'hygiène, vêtements, etc. Voici <Link
 								href="https://www.velo.qc.ca/boites-a-outils/pratique-cycliste/cyclotourisme/"
 								>quelques conseils.</Link
 							>

@@ -412,9 +412,7 @@
 								target="_blank">Rejoignez la cavalcade!</a
 							>
 						</div>
-						<strong>Note: </strong> Pour assurer le transport Québec-Montréal nous demandons à tout
-						ceux et celles qui prenne le bus de s'inscrire le jeudi 1er septembre avant 10h00.
-						Passer ce délai nous ne pouvons garantir votre billet.
+						<strong>Note: </strong> Le transport Québec-Montréal se fera par autobus de style Orléans Express. Il reste encore quelques places disponibles selon le principe du premier arrivé, premier servi. N'hésitez pas à vous inscrire si vous ne l'avez pas déjà fait et avez besoin d'un transport pour vous et votre vélo vers Montréal le 5 septembre.
 						<br />
 					</div>
 					<dl>

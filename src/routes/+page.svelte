@@ -331,7 +331,7 @@
 							</Heure>
 						</Jour>
 						<Jour
-							link="https://www.google.com/maps/dir/Parc+Donnacona,+Donnacona,+QC/Parc+nautique+de+Cap-Rouge,+Chemin+de+la+Plage+Jacques+Cartier,+Quebec+City,+QC/Parlement,+Qu%C3%A9bec,+QC/@46.74302,-71.6120733,11z/am=t/data=!4m20!4m19!1m5!1m1!1s0x4cc77e9bfb4ffccf:0x45637e925434b25c!2m2!1d-71.7299576!2d46.6778483!1m5!1m1!1s0x4cb890f2206bc733:0x378b40f3ff642e85!2m2!1d-71.341652!2d46.747046!1m5!1m1!1s0x4cb895d902f2db89:0x18a7532c57de8a9f!2m2!1d-71.213326!2d46.810104!3e1!5m1!1e3"
+							link="https://maps.app.goo.gl/e6gv1Bk6rkb6u7kQ6"
 							date="Lundi 5 septembre 2022"
 							start="Donnacona"
 							end="Québec"

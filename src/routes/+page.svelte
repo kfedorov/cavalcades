@@ -369,7 +369,7 @@
 									</ul>
 								</ul>
 							</Heure>
-							<Heure start="17h00">Embarquement pour le transport en bus</Heure>
+							<Heure start="17h00">Embarquement pour le transport en bus au <Link href="https://maps.app.goo.gl/ZEWgWYytjsDn2w119">Stade Canac</Link></Heure>
 							<Heure start="18h00">Départ du bus pour Montréal</Heure>
 							<Heure start="21h00">
 								Arrivé à Montréal au Parc La Fontaine près de l'<Link

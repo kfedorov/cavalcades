@@ -9,7 +9,7 @@ const config = {
 		postcss: true
 	}),
 
-	kit: {
+	/**kit: {
 		adapter: adapter(),
 		prerender: {
 			default: true
@@ -18,7 +18,7 @@ const config = {
 			router: false,
 			hydrate: true
 		}
-	}
+	}**/
 };
 
 export default config;

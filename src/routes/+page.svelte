@@ -455,7 +455,7 @@
 							>
 						</dt>
 						<dd>
-							Tous les fonds ramassés seront utilisés pour l'organisation de futures cavalcades! (test)
+							Tous les fonds ramassés seront utilisés pour l'organisation de futures cavalcades! (test test)
 						</dd>
 					</dl>
 				</Section>

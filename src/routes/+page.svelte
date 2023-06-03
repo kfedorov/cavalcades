@@ -28,7 +28,7 @@
 					<NavItem href="#quoi">C'est quoi?!</NavItem>
 					<NavItem href="#pourquoi">Revendications</NavItem>
 					<NavItem href="#chemin">Itinéraire</NavItem>
-					<NavItem href="#participer">Participer</NavItem>
+					<NavItem href="#participer">Comment participer</NavItem>
 					<NavItem href="#contact">Nous contacter</NavItem>
 					<NavItem color="facebook" href="https://www.facebook.com/cavalcadevelo">Facebook</NavItem>
 				</ul>

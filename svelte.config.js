@@ -16,7 +16,7 @@ const config = {
 		},
 		browser: {
 			router: false,
-			hydrate: true
+			hydrate: false
 		}
 	}
 };

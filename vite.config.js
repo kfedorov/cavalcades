@@ -2,13 +2,14 @@ import { sveltekit } from '@sveltejs/kit/vite';
 
 /** @type {import('vite').UserConfig} */
 const config = {
-	plugins: [sveltekit()]/**,
+	plugins: [sveltekit()],
 	build: {
-	    rollupOptions: {
-	        entryFileNames: `assets/[name].js`,
-	        chunkFileNames: `assets/[name].js`
-	    }
-  	}**/
+    	rollupOptions: {
+      		output: {
+        		manualChunks: {}
+      		},
+    	},
+  	},
 };
 
 export default config;

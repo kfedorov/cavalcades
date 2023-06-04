@@ -6,17 +6,17 @@ const config = {
 	// Consult https://github.com/sveltejs/svelte-preprocess
 	// for more information about preprocessors
 	preprocess: preprocess({
-		postcss: true
+		postcss: false
 	}),
 
 	kit: {
 		adapter: adapter(),
 		prerender: {
-			default: true
+			default: false
 		},
 		browser: {
 			router: false,
-			hydrate: false
+			hydrate: true
 		}
 	}
 };

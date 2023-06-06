@@ -1,12 +1,24 @@
-import sveltePreprocess from 'svelte-preprocess'
-import tailwind from "tailwindcss";
+import adapter from '@sveltejs/adapter-static';
+import preprocess from 'svelte-preprocess';
 
-export default {
-  // Consult https://github.com/sveltejs/svelte-preprocess
-  // for more information about preprocessors
-  preprocess: sveltePreprocess({
-    postcss: {
-      plugins: [tailwind("tailwind.config.cjs")],
-    },
-  }),
+/** @type {import('@sveltejs/kit').Config} */
+const config = {
+	// Consult https://github.com/sveltejs/svelte-preprocess
+	// for more information about preprocessors
+	preprocess: preprocess({
+		postcss: true
+	}),
+
+	kit: {
+		adapter: adapter(),
+		prerender: {
+			default: true
+		},
+		browser: {
+			router: false,
+			hydrate: true
+		}
+	}
 };
+
+export default config;

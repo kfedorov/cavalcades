@@ -1,1 +1,1 @@
-<section class="pb-10 px-8"><slot></slot></section>
+<section class="px-8"><slot /></section>

@@ -8,7 +8,7 @@
 	>
 		<div class=" text-slate-800 lg:max-w-md max-w-sm">
 			<div class="space-y-5 mx-auto text-center text-lg text-purple-600">
-				<img alt="Cavalcade 2024" class="m-auto" src="logo.png" />
+				<img alt="Cavalcade 2024" class="m-auto" src="logo-Small.png" />
 			</div>
 		</div>
 

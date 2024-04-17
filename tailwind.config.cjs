@@ -13,6 +13,12 @@ module.exports = {
 			colors: {
 				facebook: {
 					600: '#4267B2'
+				},
+				primary: {
+					600: '#f56080'
+				},
+				link: {
+					600: 'rgb(31, 175, 242)'
 				}
 			}
 		}

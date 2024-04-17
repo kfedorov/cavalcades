@@ -18,7 +18,7 @@
 				<p class="mt-0 mb-6">
 					<strong>🎉 La Cavalcade Vélo est de retour</strong> 🎉 <br />
 				</p>
-				Notre équipe de bénévoles a débuté la planification de cette 3e édition et<strong
+				Notre équipe de bénévoles a débuté la planification de cette 3e édition et <strong
 					>nous avons besoins de vous</strong
 				>.
 

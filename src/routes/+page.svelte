@@ -42,6 +42,11 @@
 
 				<ul>
 					<li>
+						<Link href="https://mailchi.mp/19108d3a89e9/20240523_cavalcadevelo">
+							Cavalcade vélo : l'hébergement !</Link
+						> (2024-05-23)
+					</li>
+					<li>
 						<Link href="https://mailchi.mp/10c959863f25/20240509_cavalcadevelo">
 							Cavalcade vélo : l'itinéraire!</Link
 						> (2024-05-05)

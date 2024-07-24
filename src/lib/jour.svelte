@@ -9,7 +9,7 @@
 </script>
 
 <li class="mb-10 relative">
-	<div class="absolute w-3 h-3 bg-purple-600 rounded-full -left-1.5 border border-white top-2.5" />
+	<div class="bullet absolute bg-purple-600 -translate-x-1/2 rounded-full top-2" />
 	<div class="ml-4">
 		<time class="mb-1 text-sm font-normal leading-none text-purple-600">{date}</time>
 		<h3 class="text-xl font-semibold text-gray-900">
@@ -20,3 +20,11 @@
 		</ul>
 	</div>
 </li>
+
+<style>
+	.bullet {
+		width: 15px;
+		height: 15px;
+		margin-left: -1px;
+	}
+</style>

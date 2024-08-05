@@ -60,7 +60,13 @@
 				l'auto-solo pour de petits ou grands trajets partout au Québec.
 			</p>
 
-			<h2 id="itineraire">🗺️ Notre itinéraire</h2>
+			<h2 id="itineraire">
+				🗺️ Notre itinéraire <span class="text-base"
+					>(<Link href="https://drive.google.com/file/d/17BvMGbyzwGGU2euSs7fJw2s-jS9NMKrB/view"
+						>⬇️Télécharger</Link
+					>)</span
+				>
+			</h2>
 
 			<Timeline>
 				<Jour
@@ -70,12 +76,20 @@
 					length="92.4 km"
 					link="https://www.google.com/maps/dir/Gare+Parc,+Avenue+Ogilvy,+Montreal,+QC/Charbonneau+Park/Saint-J%C3%A9r%C3%B4me,+QC/P'tit+Train+du+Nord/Morin-Heights,+QC/Camping+et+cabines+du+Sommet+Morin+Heights/@45.7399553,-74.1619252,10.26z/data=!4m38!4m37!1m5!1m1!1s0x4cc9190e664c1001:0x3ff96401ebfbf2d9!2m2!1d-73.6239467!2d45.5316087!1m5!1m1!1s0x4cc9270e3e569b49:0xe83cd7a7ea124059!2m2!1d-73.7823085!2d45.6380254!1m5!1m1!1s0x4ccf2ca32d386ced:0x5040cadae4d5210!2m2!1d-74.004948!2d45.775357!1m5!1m1!1s0x4ccf3851962b493b:0x7d6d127eb50ea837!2m2!1d-74.0754273!2d45.8727192!1m5!1m1!1s0x4ccf3cbb81e557e1:0x5c35a4196fc4a59a!2m2!1d-74.2457451!2d45.9038257!1m5!1m1!1s0x4ccf3cea3f61caab:0xaffd5110ea43f64e!2m2!1d-74.268425!2d45.9048027!3e1?entry=ttu"
 				>
-					<Heure start="9h00">Départ de la gare Parc à Montréal</Heure>
+					<Heure start="9h00"
+						>Départ de la <Link href="https://g.co/kgs/xmD6wM9">gare Parc</Link> à Montréal</Heure
+					>
 					<Heure start="10h45" distance="29.8">Pause au parc Charbonneau</Heure>
 					<Heure start="12h30" distance="28.3">
 						Dîner à Saint-Jérôme
 						<br />
-						<small>Commerces à proximité, regroupement avec celles et ceux arrivant en train</small>
+						<small
+							>Marché public, brasserie à proximité, regroupement avec celles et ceux arrivant en
+							train (<Link
+								href="https://exo.quebec/Media/Default/z/lignes/train/TRAINS/SJ/exo12-20240322_21001231.pdf"
+								>10h55 gare de la Concorde > St-Jérôme</Link
+							>)</small
+						>
 					</Heure>
 					<Heure start="14h30" distance="14.7">Pause à la gare de Prévost</Heure>
 					<Heure start="16h00" distance="16.9">
@@ -93,19 +107,19 @@
 					date="Dimanche 1 septembre"
 					start="Sommet Morin"
 					end="Carillon"
-					length="62.2 km"
-					link="https://www.google.com/maps/dir/Camping+et+cabines+du+Sommet+Morin+Heights,+Rue+Bennett,+Morin-Heights,+QC/Fiddler+Lake+Resort,+1000+Route+329,+Mille-Isles,+Quebec+J0R+1A0/Lac+Grace,+Argenteuil,+QC/Parc+Barron,+Rue+Principale,+Lachute,+QC/Parc+de+Carillon+-+Camping+municipal,+Rue+du+Plein+Air,+Argenteuil,+QC/@45.7404178,-74.4773111,10.84z/data=!4m37!4m36!1m5!1m1!1s0x4ccf3cea3f61caab:0xaffd5110ea43f64e!2m2!1d-74.268425!2d45.9048027!1m10!1m1!1s0x4ccf2428f3cf5c6f:0x67077b4257d77482!2m2!1d-74.2361802!2d45.8090471!3m4!1m2!1d-74.3360452!2d45.7864475!3s0x4ccf211b24c8b24d:0xb686327a90569b6!1m5!1m1!1s0x4ccf20cf22365bcf:0x14045dbe2230235f!2m2!1d-74.3196305!2d45.7651188!1m5!1m1!1s0x4ccedbdd0fa333a9:0xd0d7ef02ae1f0d3c!2m2!1d-74.3402016!2d45.6577573!1m5!1m1!1s0x4ccec4e667a07561:0x15acd5d74b36a741!2m2!1d-74.3791539!2d45.5716432!3e1?entry=ttu"
+					length="63.1 km"
+					link="https://www.google.com/maps/place/Municipality+of+the+Township+of+Wentworth/@45.7441085,-74.7335033,10.48z/data=!4m51!1m44!4m43!1m11!1m2!1s0x4ccf3cea3f61caab:0xaffd5110ea43f64e!2sCamping+et+cabines+du+Sommet+Morin+Heights,+Rue+Bennett,+Morin-Heights,+QC!2m2!1d-74.268425!2d45.9048027!3m4!1m2!1d-74.2585645!2d45.7841043!3s0x4ccf26eeac810831:0xd1a31d1e6ba67817!1m11!1m2!1s0x4ccf2060dc6e5b03:0x5c278d2489e18374!2sMunicipality+of+the+Township+of+Wentworth,+175+Chem.+Louisa,+Wentworth,+Quebec+J8H+0C7!2m2!1d-74.3834524!2d45.7673923!3m4!1m2!1d-74.3272595!2d45.719797!3s0x4cced8b61e08dc23:0x497df937c8952551!1m6!1m2!1s0x4ccedbdd0fa333a9:0xd0d7ef02ae1f0d3c!2sBarron+Park,+Rue+Principale,+Lachute,+QC!2m2!1d-74.3402016!2d45.6577573!1m6!1m2!1s0x4ccedb7615b2d939:0x990ae2d8395b4759!2sMaxi+Lachute+Principale,+Rue+Principale,+Lachute,+QC!2m2!1d-74.345166!2d45.65619!1m3!2m2!1d-74.375428!2d45.5697505!3e1!3m5!1s0x4ccf2060dc6e5b03:0x5c278d2489e18374!8m2!3d45.7673923!4d-74.3834524!16s%2Fg%2F11bbx0590p?entry=ttu"
 				>
 					<Heure start="9h30">Départ</Heure>
-					<Heure start="11h30" distance="32">Pause au parc du lac de Grace</Heure>
-					<Heure start="12h45" distance="29.3">
+					<Heure start="11h30" distance="31">Pause au Fiddler Lake Resort (Wentworth)</Heure>
+					<Heure start="12h45" distance="19">
 						Dîner au parc Barron (Lachute)
 						<br />
 						<small
 							>Épicerie, restaus et commerces à proximité. Prévoir des provisions pour le soir.
 						</small>
 					</Heure>
-					<Heure start="15h00" distance="13.6"
+					<Heure start="15h00" distance="11.8"
 						><Link href="https://stada.ca/citoyens/parcs-et-camping/"
 							>Arrivée au Camping du parc de Carillon</Link
 						></Heure
@@ -115,18 +129,28 @@
 					date="Lundi 2 septembre"
 					start="Carillon"
 					end="Montréal"
-					length="86.1 km"
-					link="https://www.google.com/maps/dir/Carillon+Park+Municipal+Campground,+Rue+du+Plein+Air,+Argenteuil+Regional+County+Municipality,+QC/Pointe-aux-Anglais+Park/Parc+Paul-Yvon-Lauzon,+Rue+Cl%C3%A9ment,+Saint-Joseph-du-lac,+Quebec+J0N/Parc+couvrette,+Parc+Couvrette,+665+Rue+des+Jardins-Sainte-Doroth%C3%A9e,+Laval,+Quebec+H7X+2K4/Gare+Parc,+Avenue+Ogilvy,+Montreal,+QC/@45.4867536,-74.3438809,10.3z/data=!4m37!4m36!1m5!1m1!1s0x4ccec4e667a07561:0x15acd5d74b36a741!2m2!1d-74.3791539!2d45.5716432!1m5!1m1!1s0x4ccecdbe57c1c58f:0xc902664d7544588b!2m2!1d-74.1701657!2d45.498245!1m10!1m1!1s0x4cc9315ef77e7d63:0xf1aa2c9604018d9f!2m2!1d-73.988708!2d45.5247399!3m4!1m2!1d-73.9624312!2d45.5126682!3s0x4cc9304805e253db:0xaf9a226d885f71a8!1m5!1m1!1s0x4cc92357fc0880e5:0xa96f6a72a0a1191b!2m2!1d-73.8062583!2d45.5223134!1m5!1m1!1s0x4cc9190e664c1001:0x3ff96401ebfbf2d9!2m2!1d-73.6239467!2d45.5316087!3e1?entry=ttu"
+					length="87.8 km"
+					link="https://www.google.com/maps/dir/Carillon+Park+Municipal+Campground/Jack+Layton+Park/Traverse+Oka-Hudson,+158+Rue+Main,+Hudson,+Quebec+J0P+1H0/Parc+Paul-Yvon-Lauzon/Parc+couvrette/Gare+Parc,+Avenue+Ogilvy,+Montreal,+QC/@45.46169,-74.2953117,10.46z/data=!4m68!4m67!1m20!1m1!1s0x4ccec4e667a07561:0x15acd5d74b36a741!2m2!1d-74.3791539!2d45.5716432!3m4!1m2!1d-74.3842886!2d45.5677074!3s0x4ccec4eef7683835:0x967e914dec07700b!3m4!1m2!1d-74.3527489!2d45.5110023!3s0x4ccec601becce43b:0xb0431820f5b02ad6!3m4!1m2!1d-74.3227912!2d45.4912951!3s0x4ccec8c17e73fb5d:0x12f580ac3d5b17f9!1m5!1m1!1s0x4cc934ea65635823:0xfb129b1d9f32a2b6!2m2!1d-74.1364963!2d45.4604808!1m10!1m1!1s0x4cc9344dc7872309:0x4c3dcd8cd139edc9!2m2!1d-74.1034551!2d45.4430264!3m4!1m2!1d-73.9828273!2d45.5076802!3s0x4cc931ad05f2c09d:0xa17d7ad778ab11e8!1m10!1m1!1s0x4cc9315ef77e7d63:0xf1aa2c9604018d9f!2m2!1d-73.988708!2d45.5247399!3m4!1m2!1d-73.9624312!2d45.5126682!3s0x4cc9304805e253db:0xaf9a226d885f71a8!1m10!1m1!1s0x4cc92357fc0880e5:0xa96f6a72a0a1191b!2m2!1d-73.8062583!2d45.5223134!3m4!1m2!1d-73.6588266!2d45.5385692!3s0x4cc918ed8ba25837:0xc83bfbf309a4bf00!1m5!1m1!1s0x4cc9190e664c1001:0x3ff96401ebfbf2d9!2m2!1d-73.6239467!2d45.5316087!3e1?entry=ttu"
 				>
 					<Heure start="9h00">Départ</Heure>
-					<Heure start="10h30" distance="24.8">Pause au parc Pointe-aux-anglais</Heure>
-					<Heure start="12h45" distance="23.4">
-						Dîner au parc Paul-Yvon Lauzon
+					<Heure start="10h30" distance="29.3">Pause au parc Jack Layton (Hudson)</Heure>
+					<Heure start="11h00" distance="4.3"
+						>Traversier Hudson-Oka <br />
+						<small
+							>Possibilité de <Link
+								href="https://exo.quebec/Media/Default/z/lignes/train/TRAINS/VH/exo11-20240322_21001231.pdf"
+								>retour en train</Link
+							> à la gare de Vaudreuil (trains 11h30 et 15h30) ou la gare de Dorion (trains 11h35 et
+							15h35) pour celles et ceux qui le souhaitent.</small
+						></Heure
+					>
+					<Heure start="12h30" distance="16.9">
+						Dîner au parc Paul-Yvon Lauzon (Saint Joseph du Lac)
 						<br />
 						<small>IGA à 500m</small>
 					</Heure>
-					<Heure start="15h15" distance="19.4">Pause au parc Couvrette</Heure>
-					<Heure start="17h00" distance="18.4">Arrivée de la Cavalcade 2024!</Heure>
+					<Heure start="14h30" distance="19.4">Pause au parc Couvrette (Laval)</Heure>
+					<Heure start="16h00" distance="18.4">Arrivée de la Cavalcade 2024!</Heure>
 				</Jour>
 			</Timeline>
 
